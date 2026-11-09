@@ -10,8 +10,8 @@ import kotlinx.serialization.Serializable
 object SupabaseConfig {
     // Replace with your Supabase Project URL and Public Anon Key
     const val SUPABASE_URL =
-        "https://iahtwydbiabksehwftvf.supabase.co"
-    const val SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlhaHR3eWRiaWFia3NlaHdmdHZmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQxODU1MTksImV4cCI6MjEwOTc2MTUxOX0.XxCBoYxVlYDZ6FpA80Bl-ar4WpYZVc83JUJghlXIE9w"
+        "https://spdswxqtaiddvylqsezw.supabase.co"
+    const val SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNwZHN3eHF0YWlkZHZ5bHFzZXp3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQxOTY3NjQsImV4cCI6MjEwOTc3Mjc2NH0.02jivs1zp3H7pC9VEp4Tx0JEH6Ngkpw9Q17yzUunh5w"
 }
 
 object SupabaseProvider {
